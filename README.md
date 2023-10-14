@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Virtual Book Shelf
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App created with React by Michael Wilcox
 
-## Available Scripts
+** The purpose of this app is to practice the use of Axios for API calls. I will be creating a virtual book shelf where a user can sign in and view the books they have on their "shelf".**
 
-In the project directory, you can run:
+### Opening the app
 
-### `npm start`
+** Upon opening the app, the user is greeted with an onboarding form for creating an account or logging in with an exsisting account. There may be an option in the future for guest use.**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+** Once a user has created their account or has logged in to an existing account, they will be able to view the `store` and browse for their favorite books. Once a book has been found, they will have the option to `add to library`, which will add it to their virtual book shelf. **
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The virtual book shelf
 
-### `npm test`
+** Once the user has selected a few books to add to their virtual book shelf, several options will become available for each title. **
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+** They will be able to `read` the book and have the current page stored in memory when they close the app and be able to start it up again where they left off. **
 
-### `npm run build`
+** They will have the option to `delete` the book from their library. **
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+** They will have the option to `favorite` the book and have it show up towards the beginning of their virtual book shelf. **
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### The book store
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+** In the book store, a user can search for books based on `author`, `book title`, `genre`, `category` and a `wishlist` **
 
-### `npm run eject`
+### Other
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+** Other items and/or features may be added during development. **
