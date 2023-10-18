@@ -27,3 +27,16 @@
 ### Other
 
 ** Other items and/or features may be added during development. **
+
+### API location
+
+** https://www.googleapis.com/books **
+
+### FontAwesome Icons
+
+** {/* <FontAwesomeIcon icon="fa-duotone fa-house" style={{"--fa-primary-color": "#000000", "--fa-secondary-color": "#b35000", "--fa-secondary-opacity": "1",}} />,
+<FontAwesomeIcon icon="fa-duotone fa-user" style={{"--fa-primary-color": "#000000", "--fa-secondary-color": "#b35000", "--fa-secondary-opacity": "1",}} />,
+<FontAwesomeIcon icon="fa-duotone fa-magnifying-glass" style={{"--fa-primary-color": "#000000", "--fa-secondary-color": "#b35000", "--fa-secondary-opacity": "1",}} />,
+<FontAwesomeIcon icon="fa-duotone fa-book" style={{"--fa-primary-color": "#000000", "--fa-secondary-color": "#b35000", "--fa-secondary-opacity": "1",}} />,
+<FontAwesomeIcon icon="fa-duotone fa-thumbs-up" style={{"--fa-primary-color": "#000000", "--fa-secondary-color": "#b35000", "--fa-secondary-opacity": "1",}} />,
+<FontAwesomeIcon icon="fa-duotone fa-circle-user" style={{"--fa-primary-color": "#b35000", "--fa-secondary-color": "#000000", "--fa-secondary-opacity": "1",}} /> */} **
